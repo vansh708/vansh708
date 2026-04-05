@@ -20,12 +20,12 @@
 ---
 
 ## 🛠 Tech Stack
-Frontend: ReactJS , TailwindCSS , Next UI , Shadcn Ui
-Backend: NodeJs , ExpressJs , FastAPI 
-Database: MySql , MongoDB , SQLAlchemy 
+- Frontend: ReactJS , TailwindCSS , Next UI , Shadcn Ui
+- Backend: NodeJs , ExpressJs , FastAPI 
+- Database: MySql , MongoDB , SQLAlchemy 
 
 ---
 
 ## 📫 Connect With Me
-LinkedIn:  www.linkedin.com/in/vansh-deshmukh-2973a0282
-Twitter: https://x.com/deshmukh_v51974
+- LinkedIn:  www.linkedin.com/in/vansh-deshmukh-2973a0282
+- Twitter: https://x.com/deshmukh_v51974
