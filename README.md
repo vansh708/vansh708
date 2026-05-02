@@ -1,5 +1,5 @@
 # Hi, I'm Vansh 👋
-
+MERN Stack Developer | GSSoC 2026 Contributor | Building Real-World Projects | Open to Collaboration
 💻 Full Stack Developer (React | Node.js | Express.js | MongoDB)  
 🎯 Focused on building real-world scalable applications  
 
